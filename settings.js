@@ -10,7 +10,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 //==============================\
 
 global.ownerlen = "𝑍𝑌𝐾𝑂𝐵𝑂𝑇𝑍-𝑀𝐷"
-global.owner = ['6285862754807'] 
+global.owner = ['62858627548'] 
 global.ownername = "𝑍𝑌𝐾𝑂𝐵𝑂𝑇𝑍-𝑀𝐷"
 global.ytname = "Nopan"
 global.socialm = "IG: Xyznopan"
