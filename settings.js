@@ -10,13 +10,13 @@ global.doc6 = 'application/vnd.android.package-archive'
 //==============================\
 
 global.ownerlen = "𝑍𝑌𝐾𝑂𝐵𝑂𝑇𝑍-𝑀𝐷"
-global.owner = ['625862754807'] 
+global.owner = ['6285862754807'] 
 global.ownername = "𝑍𝑌𝐾𝑂𝐵𝑂𝑇𝑍-𝑀𝐷"
 global.ytname = "Nopan"
 global.socialm = "IG: Xyznopan"
 global.location = "Indonesia, JawaBarat, Kuningan"
-global.ownernomer = "625862754807"
-global.premium = ['625862754807']
+global.ownernomer = "6285862754807"
+global.premium = ['6285862754807']
 global.botname = '𝑍𝑌𝐾𝑂𝐵𝑂𝑇𝑍-𝑀𝐷' 
 global.linkz = "https://chat.LINK BOKEP/LINKGC WA"
 global.websitex = "yt mu"
